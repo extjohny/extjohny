@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ruslan
 
-![I am beginner Android developer](https://downloader.disk.yandex.com/preview/41309743ce37c99ae975d7a31c8c65b028b0bad17a341ae1d2814a643df36b17/680d7e3e/lCaKuRoze7uKkFSYzCaFvK-QGZaxac6wq7iNfR4HGhZNINjGDdbikmQbTZmnRMcCBGkvcH6gLnmBI7M22AInfw%3D%3D?uid=0&filename=Group%201.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+![I am beginner Android developer](https://downloader.disk.yandex.com/preview/677271b070913708fdb39d3e8b7611a2b8fbe04e61070574873a88651f146eb7/680d7eb3/lDl76TX18qw6IjlHeTE_EH2zsKsmjHiD1nzcN56YSUf0OmwyqT4dBf1o_R4Cc0gRPaP0PAK5aU6GAsGgdFFCWQ%3D%3D?uid=0&filename=Group%201%20%281%29.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
 
 **I am a graduate student in IT, a future senior Android developer**
 
