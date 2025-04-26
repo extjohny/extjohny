@@ -6,7 +6,9 @@
 
 *Skills: JAVA / KOTLIN / ANDROID SDK / ROOM / RETROFIT / RXJAVA / KOTLIN COROUTINES*
 - 🔭 I’m currently **not developing real projects**
-- 🌱 I’m currently learning Java, Kotlin, Android SDK and everything related to them 
+  
+- 🌱 I’m currently learning Java, Kotlin, Android SDK and everything related to them
+  
 - 📫 How to reach me: [telegram](t.me/johnycis) 
 
 
